@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="7.03">
+<data>
+<int key="IBDocument.SystemTarget">528</int>
+<string key="IBDocument.SystemVersion">9G54</string>
+<string key="IBDocument.AppKitVersion">939.43</string>
+<string key="IBDocument.InterfaceBuilderVersion">666</string>
+<string key="IBDocument.HIToolboxVersion">353.00</string>
+<object class="NSMutableArray" key="IBDocument.EditedObjectIDs">
+<bool key="EncodedWithXMLCoder">YES</bool>
+<integer value="3"/>
+</object>
+<object class="NSArray" key="IBDocument.PluginDependencies">
+<bool key="EncodedWithXMLCoder">YES</bool>
+<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+</object>
+<object class="FBHTTPURL" key="http://www.facebook.com/411PAIN">
+<bool key="EncodedWithXMLURL">YES</bool>
+<string>com.apple.InterfaceBuilder.IBCocoaURL</string>
+</object>
+<object class="IBCocoaTouchOutletConnection" key="connection">
+<string key="label">delegate</string>
+<reference key="source" ref="444790666"/>
+<reference key="destination" ref="672490211"/>
+</object>
